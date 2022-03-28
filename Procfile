@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --template=material --theme=dark --ExecutePreprocessor.timeout=180 coronavirus_in_bangladesh.ipynb

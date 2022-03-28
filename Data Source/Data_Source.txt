@@ -1,0 +1,5 @@
+https://iedcr.gov.bd/website/images/files/
+
+https://lab.isaaclin.cn/nCoV/api/area?latest=1
+
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19
